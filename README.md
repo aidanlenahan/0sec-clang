@@ -2,9 +2,8 @@
 Efficiently and swiftly compiles C code with basic naming scheme.
 
 # INSTALL
-copy this command ...
+copy this command
 git clone https://github.com/aidanlenahan/0sec-clang && cd 0sec-clang && chmod +x ./setup.sh && ./setup.sh
-...
 
 # SYNXAX
 - 0c <filename>: Compiles a C file named <filename>.c and creates an executable with the same name.
