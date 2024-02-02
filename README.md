@@ -12,7 +12,9 @@ git clone https://github.com/aidanlenahan/0sec-clang && cd 0sec-clang && chmod +
 
 # REMOVE
 inside of the 0sec-clang/ directory, run "./remove"
+
 then, run "cd .." followed by "./DELETE-ME.sh"
+
 finally, run "rm DELETE-ME.sh" if you wish to get rid of the deletion script.
 
 # HELP
