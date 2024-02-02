@@ -2,7 +2,7 @@
 Efficiently and swiftly compiles C code with basic naming scheme.
 
 # INSTALL
-git clone https://github.com/aidanlenahan/0sec-clang && cd 0sec-clang && chmod +x ./script.sh
+git clone https://github.com/aidanlenahan/0sec-clang && cd 0sec-clang && chmod +x ./setup.sh
 
 
 
