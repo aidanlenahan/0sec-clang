@@ -1,6 +1,8 @@
 # 0sec-clang
 Efficiently and swiftly compiles C code with basic naming scheme.
 
+# INSTALL
+git clone https://github.com/aidanlenahan/0sec-clang
 
 
 
@@ -8,8 +10,7 @@ Efficiently and swiftly compiles C code with basic naming scheme.
 
 
 
-
-
+# SYNXAX
 - 0c <filename>: Compiles a C file named <filename>.c and creates an executable with the same name.
 - 0c help: Displays this help menu.
 - THIS PROGRAM DEPENDS ON CLANG!
