@@ -10,6 +10,10 @@ copy this command
 
 git clone https://github.com/aidanlenahan/0sec-clang && cd 0sec-clang && chmod +x ./setup.sh && ./setup.sh
 
+# REMOVE
+inside of the 0sec-clang/ directory, run "./remove"
+then, run "cd .." followed by "./DELETE-ME.sh"
+finally, run "rm DELETE-ME.sh" if you wish to get rid of the deletion script.
 
 # HELP
 - 0c <filename>: Compiles a C file named <filename>.c and creates an executable with the same name.
