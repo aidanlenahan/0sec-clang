@@ -26,4 +26,4 @@ finally, run "rm DELETE-ME.sh" if you wish to get rid of the deletion script.
 
 # ABOUT
 Ironically, this program is compiled C code. I hope you find this program helpful!
-Any further questions can be addressed to lemon77head@gmail.com.
+Any further questions can be addressed to d9hhhh@gmail.com.
